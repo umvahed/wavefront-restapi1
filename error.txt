@@ -1,0 +1,531 @@
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/C:/Users/Ahmed%20Vahed/.p2/pool/plugins/org.eclipse.m2e.maven.runtime.slf4j.simple_1.16.0.20200610-1735/jars/slf4j-simple-1.7.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [file:/C:/Users/Ahmed%20Vahed/eclipse/java-2020-06/eclipse/configuration/org.eclipse.osgi/5/0/.cp/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.impl.SimpleLoggerFactory]
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/C:/Users/Ahmed%20Vahed/.p2/pool/plugins/org.eclipse.m2e.maven.runtime.slf4j.simple_1.16.0.20200610-1735/jars/slf4j-simple-1.7.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [file:/C:/Users/Ahmed%20Vahed/eclipse/java-2020-06/eclipse/configuration/org.eclipse.osgi/5/0/.cp/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.impl.SimpleLoggerFactory]
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] --------------------< com.wavefront:wavefront-rest >--------------------
+[INFO] Building wavefront-rest 0.0.1-SNAPSHOT
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.22.2/maven-surefire-plugin-2.22.2.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.22.2/maven-surefire-plugin-2.22.2.pom (5.0 kB at 2.4 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire/2.22.2/surefire-2.22.2.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire/2.22.2/surefire-2.22.2.pom (26 kB at 40 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-base/2.11.2/jackson-base-2.11.2.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-base/2.11.2/jackson-base-2.11.2.pom (7.5 kB at 5.4 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.11.2/jackson-annotations-2.11.2.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.11.2/jackson-annotations-2.11.2.pom (3.8 kB at 8.7 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.11.2/jackson-core-2.11.2.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.11.2/jackson-core-2.11.2.pom (4.9 kB at 12 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jdk8/2.11.2/jackson-datatype-jdk8-2.11.2.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jdk8/2.11.2/jackson-datatype-jdk8-2.11.2.pom (2.2 kB at 4.9 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-modules-java8/2.11.2/jackson-modules-java8-2.11.2.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-modules-java8/2.11.2/jackson-modules-java8-2.11.2.pom (3.2 kB at 7.4 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.11.2/jackson-datatype-jsr310-2.11.2.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.11.2/jackson-datatype-jsr310-2.11.2.pom (4.5 kB at 10 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-parameter-names/2.11.2/jackson-module-parameter-names-2.11.2.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-parameter-names/2.11.2/jackson-module-parameter-names-2.11.2.pom (4.0 kB at 8.9 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-tomcat/2.3.3.RELEASE/spring-boot-starter-tomcat-2.3.3.RELEASE.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-tomcat/2.3.3.RELEASE/spring-boot-starter-tomcat-2.3.3.RELEASE.pom (3.1 kB at 6.9 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/9.0.37/tomcat-embed-core-9.0.37.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/9.0.37/tomcat-embed-core-9.0.37.pom (1.8 kB at 4.1 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/glassfish/jakarta.el/3.0.3/jakarta.el-3.0.3.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/glassfish/jakarta.el/3.0.3/jakarta.el-3.0.3.pom (14 kB at 29 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-websocket/9.0.37/tomcat-embed-websocket-9.0.37.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-websocket/9.0.37/tomcat-embed-websocket-9.0.37.pom (1.8 kB at 4.1 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/5.2.8.RELEASE/spring-webmvc-5.2.8.RELEASE.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/5.2.8.RELEASE/spring-webmvc-5.2.8.RELEASE.pom (2.6 kB at 6.0 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/com/h2database/h2/1.4.200/h2-1.4.200.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/com/h2database/h2/1.4.200/h2-1.4.200.pom (958 B at 2.2 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-test/2.3.3.RELEASE/spring-boot-starter-test-2.3.3.RELEASE.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-test/2.3.3.RELEASE/spring-boot-starter-test-2.3.3.RELEASE.pom (5.1 kB at 11 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test/2.3.3.RELEASE/spring-boot-test-2.3.3.RELEASE.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test/2.3.3.RELEASE/spring-boot-test-2.3.3.RELEASE.pom (2.1 kB at 4.6 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test-autoconfigure/2.3.3.RELEASE/spring-boot-test-autoconfigure-2.3.3.RELEASE.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test-autoconfigure/2.3.3.RELEASE/spring-boot-test-autoconfigure-2.3.3.RELEASE.pom (2.5 kB at 5.7 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/com/jayway/jsonpath/json-path/2.4.0/json-path-2.4.0.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/com/jayway/jsonpath/json-path/2.4.0/json-path-2.4.0.pom (2.6 kB at 5.6 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/net/minidev/json-smart/2.3/json-smart-2.3.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/net/minidev/json-smart/2.3/json-smart-2.3.pom (9.0 kB at 21 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/net/minidev/minidev-parent/2.3/minidev-parent-2.3.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/net/minidev/minidev-parent/2.3/minidev-parent-2.3.pom (8.5 kB at 18 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/net/minidev/accessors-smart/1.2/accessors-smart-1.2.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/net/minidev/accessors-smart/1.2/accessors-smart-1.2.pom (12 kB at 26 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/ow2/asm/asm/5.0.4/asm-5.0.4.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/ow2/asm/asm/5.0.4/asm-5.0.4.pom (1.9 kB at 4.4 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/ow2/asm/asm-parent/5.0.4/asm-parent-5.0.4.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/ow2/asm/asm-parent/5.0.4/asm-parent-5.0.4.pom (5.5 kB at 13 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/ow2/ow2/1.3/ow2-1.3.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/ow2/ow2/1.3/ow2-1.3.pom (9.5 kB at 22 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/jakarta/activation/jakarta.activation-api/1.2.2/jakarta.activation-api-1.2.2.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/jakarta/activation/jakarta.activation-api/1.2.2/jakarta.activation-api-1.2.2.pom (5.3 kB at 12 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/assertj/assertj-core/3.16.1/assertj-core-3.16.1.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/assertj/assertj-core/3.16.1/assertj-core-3.16.1.pom (20 kB at 45 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/assertj/assertj-parent-pom/2.2.7/assertj-parent-pom-2.2.7.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/assertj/assertj-parent-pom/2.2.7/assertj-parent-pom-2.2.7.pom (23 kB at 49 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest/2.2/hamcrest-2.2.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest/2.2/hamcrest-2.2.pom (1.1 kB at 2.6 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter/5.6.2/junit-jupiter-5.6.2.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter/5.6.2/junit-jupiter-5.6.2.pom (3.2 kB at 7.4 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-api/5.6.2/junit-jupiter-api-5.6.2.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-api/5.6.2/junit-jupiter-api-5.6.2.pom (3.2 kB at 7.4 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0.pom (1.2 kB at 2.7 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.pom (1.7 kB at 3.8 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/1.6.2/junit-platform-commons-1.6.2.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/1.6.2/junit-platform-commons-1.6.2.pom (2.8 kB at 6.4 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-params/5.6.2/junit-jupiter-params-5.6.2.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-params/5.6.2/junit-jupiter-params-5.6.2.pom (3.0 kB at 6.9 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.6.2/junit-jupiter-engine-5.6.2.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.6.2/junit-jupiter-engine-5.6.2.pom (3.2 kB at 7.2 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-engine/1.6.2/junit-platform-engine-1.6.2.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-engine/1.6.2/junit-platform-engine-1.6.2.pom (3.2 kB at 7.5 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/mockito/mockito-core/3.3.3/mockito-core-3.3.3.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/mockito/mockito-core/3.3.3/mockito-core-3.3.3.pom (23 kB at 49 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-agent/1.10.14/byte-buddy-agent-1.10.14.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-agent/1.10.14/byte-buddy-agent-1.10.14.pom (9.6 kB at 20 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/objenesis/objenesis/2.6/objenesis-2.6.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/objenesis/objenesis/2.6/objenesis-2.6.pom (2.8 kB at 6.4 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/objenesis/objenesis-parent/2.6/objenesis-parent-2.6.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/objenesis/objenesis-parent/2.6/objenesis-parent-2.6.pom (17 kB at 37 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/mockito/mockito-junit-jupiter/3.3.3/mockito-junit-jupiter-3.3.3.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/mockito/mockito-junit-jupiter/3.3.3/mockito-junit-jupiter-3.3.3.pom (23 kB at 50 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/skyscreamer/jsonassert/1.5.0/jsonassert-1.5.0.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/skyscreamer/jsonassert/1.5.0/jsonassert-1.5.0.pom (5.2 kB at 12 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.pom (2.8 kB at 6.2 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/springframework/spring-test/5.2.8.RELEASE/spring-test-5.2.8.RELEASE.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/springframework/spring-test/5.2.8.RELEASE/spring-test-5.2.8.RELEASE.pom (1.7 kB at 3.9 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/xmlunit/xmlunit-core/2.7.0/xmlunit-core-2.7.0.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/xmlunit/xmlunit-core/2.7.0/xmlunit-core-2.7.0.pom (2.7 kB at 5.8 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/xmlunit/xmlunit-parent/2.7.0/xmlunit-parent-2.7.0.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/xmlunit/xmlunit-parent/2.7.0/xmlunit-parent-2.7.0.pom (20 kB at 43 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/junit/junit/4.12/junit-4.12.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/junit/junit/4.12/junit-4.12.pom (24 kB at 50 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/2.2/hamcrest-core-2.2.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/2.2/hamcrest-core-2.2.pom (1.4 kB at 1.2 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-jpa/2.3.3.RELEASE/spring-boot-starter-data-jpa-2.3.3.RELEASE.jar
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-aop/2.3.3.RELEASE/spring-boot-starter-aop-2.3.3.RELEASE.jar
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-jdbc/2.3.3.RELEASE/spring-boot-starter-jdbc-2.3.3.RELEASE.jar
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/aspectj/aspectjweaver/1.9.6/aspectjweaver-1.9.6.jar
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/springframework/spring-aop/5.2.8.RELEASE/spring-aop-5.2.8.RELEASE.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-aop/2.3.3.RELEASE/spring-boot-starter-aop-2.3.3.RELEASE.jar (4.8 kB at 6.5 kB/s)
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-jpa/2.3.3.RELEASE/spring-boot-starter-data-jpa-2.3.3.RELEASE.jar (4.8 kB at 6.5 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/com/zaxxer/HikariCP/3.4.5/HikariCP-3.4.5.jar
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/5.2.8.RELEASE/spring-jdbc-5.2.8.RELEASE.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-jdbc/2.3.3.RELEASE/spring-boot-starter-jdbc-2.3.3.RELEASE.jar (4.8 kB at 5.1 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/jakarta/transaction/jakarta.transaction-api/1.3.3/jakarta.transaction-api-1.3.3.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/jakarta/transaction/jakarta.transaction-api/1.3.3/jakarta.transaction-api-1.3.3.jar (15 kB at 14 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/jakarta/persistence/jakarta.persistence-api/2.2.3/jakarta.persistence-api-2.2.3.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/com/zaxxer/HikariCP/3.4.5/HikariCP-3.4.5.jar (156 kB at 28 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.4.20.Final/hibernate-core-5.4.20.Final.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/jakarta/persistence/jakarta.persistence-api/2.2.3/jakarta.persistence-api-2.2.3.jar (164 kB at 24 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.4.1.Final/jboss-logging-3.4.1.Final.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.4.1.Final/jboss-logging-3.4.1.Final.jar (61 kB at 13 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/javassist/javassist/3.24.0-GA/javassist-3.24.0-GA.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/springframework/spring-aop/5.2.8.RELEASE/spring-aop-5.2.8.RELEASE.jar (373 kB at 27 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.10.14/byte-buddy-1.10.14.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/5.2.8.RELEASE/spring-jdbc-5.2.8.RELEASE.jar (408 kB at 25 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/antlr/antlr/2.7.7/antlr-2.7.7.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/antlr/antlr/2.7.7/antlr-2.7.7.jar (445 kB at 35 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/jboss/jandex/2.1.3.Final/jandex-2.1.3.Final.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/jboss/jandex/2.1.3.Final/jandex-2.1.3.Final.jar (196 kB at 29 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/com/fasterxml/classmate/1.5.1/classmate-1.5.1.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/javassist/javassist/3.24.0-GA/javassist-3.24.0-GA.jar (778 kB at 33 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/dom4j/dom4j/2.1.3/dom4j-2.1.3.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/com/fasterxml/classmate/1.5.1/classmate-1.5.1.jar (68 kB at 19 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/5.1.0.Final/hibernate-commons-annotations-5.1.0.Final.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/5.1.0.Final/hibernate-commons-annotations-5.1.0.Final.jar (76 kB at 24 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-runtime/2.3.3/jaxb-runtime-2.3.3.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/dom4j/dom4j/2.1.3/dom4j-2.1.3.jar (324 kB at 23 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/glassfish/jaxb/txw2/2.3.3/txw2-2.3.3.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/glassfish/jaxb/txw2/2.3.3/txw2-2.3.3.jar (72 kB at 17 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/com/sun/istack/istack-commons-runtime/3.0.11/istack-commons-runtime-3.0.11.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/com/sun/istack/istack-commons-runtime/3.0.11/istack-commons-runtime-3.0.11.jar (30 kB at 15 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/com/sun/activation/jakarta.activation/1.2.2/jakarta.activation-1.2.2.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/com/sun/activation/jakarta.activation/1.2.2/jakarta.activation-1.2.2.jar (68 kB at 27 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-jpa/2.3.3.RELEASE/spring-data-jpa-2.3.3.RELEASE.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/aspectj/aspectjweaver/1.9.6/aspectjweaver-1.9.6.jar (2.1 MB at 29 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-commons/2.3.3.RELEASE/spring-data-commons-2.3.3.RELEASE.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-jpa/2.3.3.RELEASE/spring-data-jpa-2.3.3.RELEASE.jar (368 kB at 19 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/springframework/spring-orm/5.2.8.RELEASE/spring-orm-5.2.8.RELEASE.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/springframework/spring-orm/5.2.8.RELEASE/spring-orm-5.2.8.RELEASE.jar (201 kB at 26 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.2.8.RELEASE/spring-context-5.2.8.RELEASE.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-runtime/2.3.3/jaxb-runtime-2.3.3.jar (1.0 MB at 23 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/springframework/spring-tx/5.2.8.RELEASE/spring-tx-5.2.8.RELEASE.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/springframework/spring-tx/5.2.8.RELEASE/spring-tx-5.2.8.RELEASE.jar (315 kB at 41 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.2.8.RELEASE/spring-beans-5.2.8.RELEASE.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-commons/2.3.3.RELEASE/spring-data-commons-2.3.3.RELEASE.jar (1.2 MB at 31 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.30/slf4j-api-1.7.30.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.30/slf4j-api-1.7.30.jar (41 kB at 28 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/springframework/spring-aspects/5.2.8.RELEASE/spring-aspects-5.2.8.RELEASE.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/springframework/spring-aspects/5.2.8.RELEASE/spring-aspects-5.2.8.RELEASE.jar (47 kB at 22 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-web/2.3.3.RELEASE/spring-boot-starter-web-2.3.3.RELEASE.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-web/2.3.3.RELEASE/spring-boot-starter-web-2.3.3.RELEASE.jar (4.8 kB at 5.0 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter/2.3.3.RELEASE/spring-boot-starter-2.3.3.RELEASE.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter/2.3.3.RELEASE/spring-boot-starter-2.3.3.RELEASE.jar (4.8 kB at 4.9 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot/2.3.3.RELEASE/spring-boot-2.3.3.RELEASE.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.2.8.RELEASE/spring-beans-5.2.8.RELEASE.jar (689 kB at 30 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-autoconfigure/2.3.3.RELEASE/spring-boot-autoconfigure-2.3.3.RELEASE.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.2.8.RELEASE/spring-context-5.2.8.RELEASE.jar (1.2 MB at 28 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-logging/2.3.3.RELEASE/spring-boot-starter-logging-2.3.3.RELEASE.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-logging/2.3.3.RELEASE/spring-boot-starter-logging-2.3.3.RELEASE.jar (4.8 kB at 6.8 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.10.14/byte-buddy-1.10.14.jar (3.5 MB at 29 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/ch/qos/logback/logback-core/1.2.3/logback-core-1.2.3.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3.jar (290 kB at 57 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-to-slf4j/2.13.3/log4j-to-slf4j-2.13.3.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-to-slf4j/2.13.3/log4j-to-slf4j-2.13.3.jar (17 kB at 20 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-api/2.13.3/log4j-api-2.13.3.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-api/2.13.3/log4j-api-2.13.3.jar (292 kB at 43 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/slf4j/jul-to-slf4j/1.7.30/jul-to-slf4j-1.7.30.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/slf4j/jul-to-slf4j/1.7.30/jul-to-slf4j-1.7.30.jar (4.6 kB at 6.9 kB/s)
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/ch/qos/logback/logback-core/1.2.3/logback-core-1.2.3.jar (472 kB at 47 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/jakarta/annotation/jakarta.annotation-api/1.3.5/jakarta.annotation-api-1.3.5.jar
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/yaml/snakeyaml/1.26/snakeyaml-1.26.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/jakarta/annotation/jakarta.annotation-api/1.3.5/jakarta.annotation-api-1.3.5.jar (25 kB at 16 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-json/2.3.3.RELEASE/spring-boot-starter-json-2.3.3.RELEASE.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-json/2.3.3.RELEASE/spring-boot-starter-json-2.3.3.RELEASE.jar (4.7 kB at 5.0 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.11.2/jackson-databind-2.11.2.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot/2.3.3.RELEASE/spring-boot-2.3.3.RELEASE.jar (1.1 MB at 34 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.11.2/jackson-annotations-2.11.2.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.11.2/jackson-annotations-2.11.2.jar (68 kB at 24 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.11.2/jackson-core-2.11.2.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/yaml/snakeyaml/1.26/snakeyaml-1.26.jar (309 kB at 31 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jdk8/2.11.2/jackson-datatype-jdk8-2.11.2.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jdk8/2.11.2/jackson-datatype-jdk8-2.11.2.jar (34 kB at 22 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.11.2/jackson-datatype-jsr310-2.11.2.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.11.2/jackson-datatype-jsr310-2.11.2.jar (111 kB at 24 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-parameter-names/2.11.2/jackson-module-parameter-names-2.11.2.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-autoconfigure/2.3.3.RELEASE/spring-boot-autoconfigure-2.3.3.RELEASE.jar (1.5 MB at 34 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-tomcat/2.3.3.RELEASE/spring-boot-starter-tomcat-2.3.3.RELEASE.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-parameter-names/2.11.2/jackson-module-parameter-names-2.11.2.jar (9.3 kB at 8.5 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/9.0.37/tomcat-embed-core-9.0.37.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-tomcat/2.3.3.RELEASE/spring-boot-starter-tomcat-2.3.3.RELEASE.jar (4.8 kB at 5.1 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/glassfish/jakarta.el/3.0.3/jakarta.el-3.0.3.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.11.2/jackson-core-2.11.2.jar (351 kB at 32 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-websocket/9.0.37/tomcat-embed-websocket-9.0.37.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/glassfish/jakarta.el/3.0.3/jakarta.el-3.0.3.jar (238 kB at 26 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/springframework/spring-web/5.2.8.RELEASE/spring-web-5.2.8.RELEASE.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-websocket/9.0.37/tomcat-embed-websocket-9.0.37.jar (269 kB at 28 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/5.2.8.RELEASE/spring-webmvc-5.2.8.RELEASE.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.11.2/jackson-databind-2.11.2.jar (1.4 MB at 27 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/springframework/spring-expression/5.2.8.RELEASE/spring-expression-5.2.8.RELEASE.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/springframework/spring-expression/5.2.8.RELEASE/spring-expression-5.2.8.RELEASE.jar (282 kB at 17 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/com/h2database/h2/1.4.200/h2-1.4.200.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/5.2.8.RELEASE/spring-webmvc-5.2.8.RELEASE.jar (956 kB at 19 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-test/2.3.3.RELEASE/spring-boot-starter-test-2.3.3.RELEASE.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-test/2.3.3.RELEASE/spring-boot-starter-test-2.3.3.RELEASE.jar (4.8 kB at 6.1 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test/2.3.3.RELEASE/spring-boot-test-2.3.3.RELEASE.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test/2.3.3.RELEASE/spring-boot-test-2.3.3.RELEASE.jar (215 kB at 53 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test-autoconfigure/2.3.3.RELEASE/spring-boot-test-autoconfigure-2.3.3.RELEASE.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/springframework/spring-web/5.2.8.RELEASE/spring-web-5.2.8.RELEASE.jar (1.4 MB at 26 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/com/jayway/jsonpath/json-path/2.4.0/json-path-2.4.0.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test-autoconfigure/2.3.3.RELEASE/spring-boot-test-autoconfigure-2.3.3.RELEASE.jar (175 kB at 85 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/net/minidev/json-smart/2.3/json-smart-2.3.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/com/jayway/jsonpath/json-path/2.4.0/json-path-2.4.0.jar (223 kB at 56 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/net/minidev/accessors-smart/1.2/accessors-smart-1.2.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/net/minidev/json-smart/2.3/json-smart-2.3.jar (120 kB at 33 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/ow2/asm/asm/5.0.4/asm-5.0.4.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/net/minidev/accessors-smart/1.2/accessors-smart-1.2.jar (30 kB at 13 kB/s)
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.4.20.Final/hibernate-core-5.4.20.Final.jar (7.3 MB at 32 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/jakarta/xml/bind/jakarta.xml.bind-api/2.3.3/jakarta.xml.bind-api-2.3.3.jar
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/jakarta/activation/jakarta.activation-api/1.2.2/jakarta.activation-api-1.2.2.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/ow2/asm/asm/5.0.4/asm-5.0.4.jar (53 kB at 17 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/assertj/assertj-core/3.16.1/assertj-core-3.16.1.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/jakarta/activation/jakarta.activation-api/1.2.2/jakarta.activation-api-1.2.2.jar (47 kB at 15 kB/s)
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/jakarta/xml/bind/jakarta.xml.bind-api/2.3.3/jakarta.xml.bind-api-2.3.3.jar (116 kB at 37 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest/2.2/hamcrest-2.2.jar
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter/5.6.2/junit-jupiter-5.6.2.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/9.0.37/tomcat-embed-core-9.0.37.jar (3.4 MB at 44 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-api/5.6.2/junit-jupiter-api-5.6.2.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter/5.6.2/junit-jupiter-5.6.2.jar (6.4 kB at 2.3 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest/2.2/hamcrest-2.2.jar (123 kB at 34 kB/s)
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/com/h2database/h2/1.4.200/h2-1.4.200.jar (2.3 MB at 94 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/1.6.2/junit-platform-commons-1.6.2.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-api/5.6.2/junit-jupiter-api-5.6.2.jar (154 kB at 63 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-params/5.6.2/junit-jupiter-params-5.6.2.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0.jar (2.4 kB at 865 B/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.6.2/junit-jupiter-engine-5.6.2.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar (7.7 kB at 3.9 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-engine/1.6.2/junit-platform-engine-1.6.2.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/1.6.2/junit-platform-commons-1.6.2.jar (97 kB at 43 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/mockito/mockito-core/3.3.3/mockito-core-3.3.3.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-engine/1.6.2/junit-platform-engine-1.6.2.jar (174 kB at 50 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-agent/1.10.14/byte-buddy-agent-1.10.14.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.6.2/junit-jupiter-engine-5.6.2.jar (209 kB at 58 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/objenesis/objenesis/2.6/objenesis-2.6.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/objenesis/objenesis/2.6/objenesis-2.6.jar (56 kB at 30 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/mockito/mockito-junit-jupiter/3.3.3/mockito-junit-jupiter-3.3.3.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/mockito/mockito-junit-jupiter/3.3.3/mockito-junit-jupiter-3.3.3.jar (4.5 kB at 6.7 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/skyscreamer/jsonassert/1.5.0/jsonassert-1.5.0.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/skyscreamer/jsonassert/1.5.0/jsonassert-1.5.0.jar (30 kB at 21 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar (18 kB at 10 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.2.8.RELEASE/spring-core-5.2.8.RELEASE.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-agent/1.10.14/byte-buddy-agent-1.10.14.jar (259 kB at 32 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.2.8.RELEASE/spring-jcl-5.2.8.RELEASE.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-params/5.6.2/junit-jupiter-params-5.6.2.jar (562 kB at 41 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/springframework/spring-test/5.2.8.RELEASE/spring-test-5.2.8.RELEASE.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.2.8.RELEASE/spring-jcl-5.2.8.RELEASE.jar (24 kB at 21 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/xmlunit/xmlunit-core/2.7.0/xmlunit-core-2.7.0.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/mockito/mockito-core/3.3.3/mockito-core-3.3.3.jar (592 kB at 32 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/junit/junit/4.12/junit-4.12.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/xmlunit/xmlunit-core/2.7.0/xmlunit-core-2.7.0.jar (168 kB at 28 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/2.2/hamcrest-core-2.2.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/2.2/hamcrest-core-2.2.jar (1.5 kB at 2.5 kB/s)
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/junit/junit/4.12/junit-4.12.jar (315 kB at 26 kB/s)
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/springframework/spring-test/5.2.8.RELEASE/spring-test-5.2.8.RELEASE.jar (686 kB at 31 kB/s)
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.2.8.RELEASE/spring-core-5.2.8.RELEASE.jar (1.4 MB at 38 kB/s)
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/assertj/assertj-core/3.16.1/assertj-core-3.16.1.jar (4.7 MB at 65 kB/s)
+[INFO] 
+[INFO] --- maven-resources-plugin:3.1.0:resources (default-resources) @ wavefront-rest ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 1 resource
+[INFO] Copying 0 resource
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.8.1:compile (default-compile) @ wavefront-rest ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 11 source files to C:\Users\Ahmed Vahed\Documents\My Projects\wavefront-rest\target\classes
+[INFO] 
+[INFO] --- maven-resources-plugin:3.1.0:testResources (default-testResources) @ wavefront-rest ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory C:\Users\Ahmed Vahed\Documents\My Projects\wavefront-rest\src\test\resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.8.1:testCompile (default-testCompile) @ wavefront-rest ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 1 source file to C:\Users\Ahmed Vahed\Documents\My Projects\wavefront-rest\target\test-classes
+[INFO] /C:/Users/Ahmed Vahed/Documents/My Projects/wavefront-rest/src/test/java/com/wavefront/WavefrontRestApplicationTests.java: C:\Users\Ahmed Vahed\Documents\My Projects\wavefront-rest\src\test\java\com\wavefront\WavefrontRestApplicationTests.java uses or overrides a deprecated API.
+[INFO] /C:/Users/Ahmed Vahed/Documents/My Projects/wavefront-rest/src/test/java/com/wavefront/WavefrontRestApplicationTests.java: Recompile with -Xlint:deprecation for details.
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.22.2:test (default-test) @ wavefront-rest ---
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/apache/maven/surefire/maven-surefire-common/2.22.2/maven-surefire-common-2.22.2.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/apache/maven/surefire/maven-surefire-common/2.22.2/maven-surefire-common-2.22.2.pom (11 kB at 9.2 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-annotations/3.5.2/maven-plugin-annotations-3.5.2.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-annotations/3.5.2/maven-plugin-annotations-3.5.2.pom (1.6 kB at 3.9 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools/3.5.2/maven-plugin-tools-3.5.2.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools/3.5.2/maven-plugin-tools-3.5.2.pom (15 kB at 37 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-api/2.22.2/surefire-api-2.22.2.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-api/2.22.2/surefire-api-2.22.2.pom (3.5 kB at 8.9 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-logger-api/2.22.2/surefire-logger-api-2.22.2.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-logger-api/2.22.2/surefire-logger-api-2.22.2.pom (2.0 kB at 4.9 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-booter/2.22.2/surefire-booter-2.22.2.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-booter/2.22.2/surefire-booter-2.22.2.pom (7.5 kB at 19 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-container-default/1.0-alpha-9-stable-1/plexus-container-default-1.0-alpha-9-stable-1.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-container-default/1.0-alpha-9-stable-1/plexus-container-default-1.0-alpha-9-stable-1.pom (3.9 kB at 9.5 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-containers/1.0.3/plexus-containers-1.0.3.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-containers/1.0.3/plexus-containers-1.0.3.pom (492 B at 1.2 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/1.0.4/plexus-1.0.4.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/1.0.4/plexus-1.0.4.pom (5.7 kB at 15 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.pom (766 B at 1.9 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-parent/1.3/hamcrest-parent-1.3.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-parent/1.3/hamcrest-parent-1.3.pom (2.0 kB at 5.0 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.0.4/plexus-utils-1.0.4.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.0.4/plexus-utils-1.0.4.pom (6.9 kB at 17 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/classworlds/classworlds/1.1-alpha-2/classworlds-1.1-alpha-2.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/classworlds/classworlds/1.1-alpha-2/classworlds-1.1-alpha-2.pom (3.1 kB at 7.7 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting-api/3.0/maven-reporting-api-3.0.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting-api/3.0/maven-reporting-api-3.0.pom (2.4 kB at 5.8 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/15/maven-shared-components-15.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/15/maven-shared-components-15.pom (9.3 kB at 23 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/16/maven-parent-16.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/16/maven-parent-16.pom (23 kB at 53 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/apache/apache/7/apache-7.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/apache/apache/7/apache-7.pom (14 kB at 34 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/classworlds/classworlds/1.1/classworlds-1.1.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/classworlds/classworlds/1.1/classworlds-1.1.pom (3.3 kB at 8.5 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/apache/maven/maven-toolchain/2.2.1/maven-toolchain-2.2.1.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/apache/maven/maven-toolchain/2.2.1/maven-toolchain-2.2.1.pom (3.3 kB at 8.2 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/com/thoughtworks/qdox/qdox/2.0-M8/qdox-2.0-M8.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/com/thoughtworks/qdox/qdox/2.0-M8/qdox-2.0-M8.pom (16 kB at 40 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/apache/maven/surefire/maven-surefire-common/2.22.2/maven-surefire-common-2.22.2.jar
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/2.2.1/maven-plugin-api-2.2.1.jar
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-annotations/3.5.2/maven-plugin-annotations-3.5.2.jar
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-logger-api/2.22.2/surefire-logger-api-2.22.2.jar
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-api/2.22.2/surefire-api-2.22.2.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/2.2.1/maven-plugin-api-2.2.1.jar (12 kB at 19 kB/s)
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-logger-api/2.22.2/surefire-logger-api-2.22.2.jar (13 kB at 21 kB/s)
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-annotations/3.5.2/maven-plugin-annotations-3.5.2.jar (14 kB at 23 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/2.2.1/maven-artifact-2.2.1.jar
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-booter/2.22.2/surefire-booter-2.22.2.jar
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.5.15/plexus-utils-1.5.15.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-api/2.22.2/surefire-api-2.22.2.jar (186 kB at 184 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-descriptor/2.2.1/maven-plugin-descriptor-2.2.1.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/apache/maven/surefire/maven-surefire-common/2.22.2/maven-surefire-common-2.22.2.jar (528 kB at 459 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-container-default/1.0-alpha-9-stable-1/plexus-container-default-1.0-alpha-9-stable-1.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/2.2.1/maven-artifact-2.2.1.jar (80 kB at 157 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.5.15/plexus-utils-1.5.15.jar (228 kB at 407 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/apache/maven/maven-project/2.2.1/maven-project-2.2.1.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-booter/2.22.2/surefire-booter-2.22.2.jar (274 kB at 422 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/2.2.1/maven-settings-2.2.1.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-descriptor/2.2.1/maven-plugin-descriptor-2.2.1.jar (39 kB at 79 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/apache/maven/maven-profile/2.2.1/maven-profile-2.2.1.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-container-default/1.0-alpha-9-stable-1/plexus-container-default-1.0-alpha-9-stable-1.jar (194 kB at 438 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact-manager/2.2.1/maven-artifact-manager-2.2.1.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar (45 kB at 99 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/backport-util-concurrent/backport-util-concurrent/3.1/backport-util-concurrent-3.1.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/apache/maven/maven-project/2.2.1/maven-project-2.2.1.jar (156 kB at 334 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-registry/2.2.1/maven-plugin-registry-2.2.1.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/2.2.1/maven-settings-2.2.1.jar (49 kB at 100 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.11/plexus-interpolation-1.11.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/apache/maven/maven-profile/2.2.1/maven-profile-2.2.1.jar (35 kB at 87 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/2.2.1/maven-model-2.2.1.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact-manager/2.2.1/maven-artifact-manager-2.2.1.jar (68 kB at 164 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/2.2.1/maven-core-2.2.1.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/backport-util-concurrent/backport-util-concurrent/3.1/backport-util-concurrent-3.1.jar (332 kB at 734 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-parameter-documenter/2.2.1/maven-plugin-parameter-documenter-2.2.1.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-registry/2.2.1/maven-plugin-registry-2.2.1.jar (30 kB at 67 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/slf4j/slf4j-jdk14/1.5.6/slf4j-jdk14-1.5.6.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.11/plexus-interpolation-1.11.jar (51 kB at 128 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.5.6/slf4j-api-1.5.6.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/2.2.1/maven-model-2.2.1.jar (88 kB at 203 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/slf4j/jcl-over-slf4j/1.5.6/jcl-over-slf4j-1.5.6.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/2.2.1/maven-core-2.2.1.jar (178 kB at 393 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting-api/3.0/maven-reporting-api-3.0.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-parameter-documenter/2.2.1/maven-plugin-parameter-documenter-2.2.1.jar (22 kB at 48 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/2.2.1/maven-repository-metadata-2.2.1.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/slf4j/slf4j-jdk14/1.5.6/slf4j-jdk14-1.5.6.jar (8.8 kB at 20 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/apache/maven/maven-error-diagnostics/2.2.1/maven-error-diagnostics-2.2.1.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.5.6/slf4j-api-1.5.6.jar (22 kB at 48 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/apache/maven/maven-monitor/2.2.1/maven-monitor-2.2.1.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/slf4j/jcl-over-slf4j/1.5.6/jcl-over-slf4j-1.5.6.jar (17 kB at 36 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/classworlds/classworlds/1.1/classworlds-1.1.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting-api/3.0/maven-reporting-api-3.0.jar (11 kB at 21 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/apache/maven/maven-toolchain/2.2.1/maven-toolchain-2.2.1.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/2.2.1/maven-repository-metadata-2.2.1.jar (26 kB at 54 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/com/thoughtworks/qdox/qdox/2.0-M8/qdox-2.0-M8.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/apache/maven/maven-error-diagnostics/2.2.1/maven-error-diagnostics-2.2.1.jar (13 kB at 29 kB/s)
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/apache/maven/maven-monitor/2.2.1/maven-monitor-2.2.1.jar (10 kB at 21 kB/s)
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/apache/maven/maven-toolchain/2.2.1/maven-toolchain-2.2.1.jar (38 kB at 87 kB/s)
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/classworlds/classworlds/1.1/classworlds-1.1.jar (38 kB at 65 kB/s)
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/com/thoughtworks/qdox/qdox/2.0-M8/qdox-2.0-M8.jar (316 kB at 516 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-junit-platform/2.22.2/surefire-junit-platform-2.22.2.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-junit-platform/2.22.2/surefire-junit-platform-2.22.2.pom (7.0 kB at 16 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-providers/2.22.2/surefire-providers-2.22.2.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-providers/2.22.2/surefire-providers-2.22.2.pom (2.5 kB at 5.8 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-launcher/1.3.1/junit-platform-launcher-1.3.1.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-launcher/1.3.1/junit-platform-launcher-1.3.1.pom (2.2 kB at 5.2 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/apiguardian/apiguardian-api/1.0.0/apiguardian-api-1.0.0.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/apiguardian/apiguardian-api/1.0.0/apiguardian-api-1.0.0.pom (1.2 kB at 2.6 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-engine/1.3.1/junit-platform-engine-1.3.1.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-engine/1.3.1/junit-platform-engine-1.3.1.pom (2.4 kB at 5.3 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/1.3.1/junit-platform-commons-1.3.1.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/1.3.1/junit-platform-commons-1.3.1.pom (2.0 kB at 4.9 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/opentest4j/opentest4j/1.1.1/opentest4j-1.1.1.pom
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/opentest4j/opentest4j/1.1.1/opentest4j-1.1.1.pom (1.7 kB at 4.0 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/1.3.1/junit-platform-commons-1.3.1.jar
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-launcher/1.3.1/junit-platform-launcher-1.3.1.jar
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-engine/1.3.1/junit-platform-engine-1.3.1.jar
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-junit-platform/2.22.2/surefire-junit-platform-2.22.2.jar
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/apiguardian/apiguardian-api/1.0.0/apiguardian-api-1.0.0.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/apiguardian/apiguardian-api/1.0.0/apiguardian-api-1.0.0.jar (2.2 kB at 4.8 kB/s)
+[INFO] Downloading from : https://repo.maven.apache.org/maven2/org/opentest4j/opentest4j/1.1.1/opentest4j-1.1.1.jar
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-launcher/1.3.1/junit-platform-launcher-1.3.1.jar (95 kB at 199 kB/s)
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-junit-platform/2.22.2/surefire-junit-platform-2.22.2.jar (66 kB at 134 kB/s)
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/1.3.1/junit-platform-commons-1.3.1.jar (78 kB at 153 kB/s)
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-engine/1.3.1/junit-platform-engine-1.3.1.jar (135 kB at 262 kB/s)
+[INFO] Downloaded from : https://repo.maven.apache.org/maven2/org/opentest4j/opentest4j/1.1.1/opentest4j-1.1.1.jar (7.1 kB at 18 kB/s)
+[INFO] 
+[INFO] -------------------------------------------------------
+[INFO]  T E S T S
+[INFO] -------------------------------------------------------
+[INFO] Running com.wavefront.WavefrontRestApplicationTests
+21:08:17.700 [main] DEBUG org.springframework.test.context.BootstrapUtils - Instantiating CacheAwareContextLoaderDelegate from class [org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate]
+21:08:17.726 [main] DEBUG org.springframework.test.context.BootstrapUtils - Instantiating BootstrapContext using constructor [public org.springframework.test.context.support.DefaultBootstrapContext(java.lang.Class,org.springframework.test.context.CacheAwareContextLoaderDelegate)]
+21:08:17.791 [main] DEBUG org.springframework.test.context.BootstrapUtils - Instantiating TestContextBootstrapper for test class [com.wavefront.WavefrontRestApplicationTests] from class [org.springframework.boot.test.context.SpringBootTestContextBootstrapper]
+21:08:17.823 [main] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper - Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.wavefront.WavefrontRestApplicationTests], using SpringBootContextLoader
+21:08:17.835 [main] DEBUG org.springframework.test.context.support.AbstractContextLoader - Did not detect default resource location for test class [com.wavefront.WavefrontRestApplicationTests]: class path resource [com/wavefront/WavefrontRestApplicationTests-context.xml] does not exist
+21:08:17.836 [main] DEBUG org.springframework.test.context.support.AbstractContextLoader - Did not detect default resource location for test class [com.wavefront.WavefrontRestApplicationTests]: class path resource [com/wavefront/WavefrontRestApplicationTestsContext.groovy] does not exist
+21:08:17.836 [main] INFO org.springframework.test.context.support.AbstractContextLoader - Could not detect default resource locations for test class [com.wavefront.WavefrontRestApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+21:08:17.838 [main] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.wavefront.WavefrontRestApplicationTests]: WavefrontRestApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+21:08:17.938 [main] DEBUG org.springframework.test.context.support.ActiveProfilesUtils - Could not find an 'annotation declaring class' for annotation type [org.springframework.test.context.ActiveProfiles] and class [com.wavefront.WavefrontRestApplicationTests]
+21:08:18.088 [main] DEBUG org.springframework.context.annotation.ClassPathScanningCandidateComponentProvider - Identified candidate component class: file [C:\Users\Ahmed Vahed\Documents\My Projects\wavefront-rest\target\classes\com\wavefront\WavefrontRestApplication.class]
+21:08:18.093 [main] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.wavefront.WavefrontRestApplication for test class com.wavefront.WavefrontRestApplicationTests
+21:08:18.368 [main] DEBUG org.springframework.boot.test.context.SpringBootTestContextBootstrapper - @TestExecutionListeners is not present for class [com.wavefront.WavefrontRestApplicationTests]: using defaults.
+21:08:18.369 [main] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener]
+21:08:18.392 [main] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper - Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@7fbdb894, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@3081f72c, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@3148f668, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@6e005dc9, org.springframework.test.context.support.DirtiesContextTestExecutionListener@7ceb3185, org.springframework.test.context.transaction.TransactionalTestExecutionListener@436c81a3, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@3561c410, org.springframework.test.context.event.EventPublishingTestExecutionListener@59e32960, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@7c214cc0, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@5b67bb7e, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@609db546, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@20f5281c, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@56c4278e, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener@301eda63]
+21:08:18.405 [main] DEBUG org.springframework.test.context.support.AbstractDirtiesContextTestExecutionListener - Before test class: context [DefaultTestContext@37e4d7bb testClass = WavefrontRestApplicationTests, testInstance = [null], testMethod = [null], testException = [null], mergedContextConfiguration = [WebMergedContextConfiguration@6f7923a5 testClass = WavefrontRestApplicationTests, locations = '{}', classes = '{class com.wavefront.WavefrontRestApplication}', contextInitializerClasses = '[]', activeProfiles = '{}', propertySourceLocations = '{}', propertySourceProperties = '{org.springframework.boot.test.context.SpringBootTestContextBootstrapper=true, server.port=0}', contextCustomizers = set[org.springframework.boot.test.context.filter.ExcludeFilterContextCustomizer@11bd0f3b, org.springframework.boot.test.json.DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer@1eb5174b, org.springframework.boot.test.mock.mockito.MockitoContextCustomizer@0, org.springframework.boot.test.web.client.TestRestTemplateContextCustomizer@27ff5d15, org.springframework.boot.test.autoconfigure.properties.PropertyMappingContextCustomizer@0, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverContextCustomizerFactory$Customizer@6babf3bf, org.springframework.boot.test.context.SpringBootTestArgs@1], resourceBasePath = 'src/main/webapp', contextLoader = 'org.springframework.boot.test.context.SpringBootContextLoader', parent = [null]], attributes = map['org.springframework.test.context.web.ServletTestExecutionListener.activateListener' -> false]], class annotated with @DirtiesContext [false] with mode [null].
+21:08:18.440 [main] DEBUG org.springframework.test.context.support.DependencyInjectionTestExecutionListener - Performing dependency injection for test context [[DefaultTestContext@37e4d7bb testClass = WavefrontRestApplicationTests, testInstance = com.wavefront.WavefrontRestApplicationTests@6d167f58, testMethod = [null], testException = [null], mergedContextConfiguration = [WebMergedContextConfiguration@6f7923a5 testClass = WavefrontRestApplicationTests, locations = '{}', classes = '{class com.wavefront.WavefrontRestApplication}', contextInitializerClasses = '[]', activeProfiles = '{}', propertySourceLocations = '{}', propertySourceProperties = '{org.springframework.boot.test.context.SpringBootTestContextBootstrapper=true, server.port=0}', contextCustomizers = set[org.springframework.boot.test.context.filter.ExcludeFilterContextCustomizer@11bd0f3b, org.springframework.boot.test.json.DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer@1eb5174b, org.springframework.boot.test.mock.mockito.MockitoContextCustomizer@0, org.springframework.boot.test.web.client.TestRestTemplateContextCustomizer@27ff5d15, org.springframework.boot.test.autoconfigure.properties.PropertyMappingContextCustomizer@0, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverContextCustomizerFactory$Customizer@6babf3bf, org.springframework.boot.test.context.SpringBootTestArgs@1], resourceBasePath = 'src/main/webapp', contextLoader = 'org.springframework.boot.test.context.SpringBootContextLoader', parent = [null]], attributes = map['org.springframework.test.context.web.ServletTestExecutionListener.activateListener' -> false]]].
+21:08:18.486 [main] DEBUG org.springframework.test.context.support.TestPropertySourceUtils - Adding inlined properties to environment: {spring.jmx.enabled=false, org.springframework.boot.test.context.SpringBootTestContextBootstrapper=true, server.port=0}
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::        (v2.3.3.RELEASE)
+
+2020-08-24 21:08:19.119  INFO 5048 --- [           main] c.w.WavefrontRestApplicationTests        : Starting WavefrontRestApplicationTests on DESKTOP-OR2VMGU with PID 5048 (started by Ahmed Vahed in C:\Users\Ahmed Vahed\Documents\My Projects\wavefront-rest)
+2020-08-24 21:08:19.121  INFO 5048 --- [           main] c.w.WavefrontRestApplicationTests        : No active profile set, falling back to default profiles: default
+2020-08-24 21:08:20.903  INFO 5048 --- [           main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+2020-08-24 21:08:21.133  INFO 5048 --- [           main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 208ms. Found 1 JPA repository interfaces.
+2020-08-24 21:08:23.288  INFO 5048 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 0 (http)
+2020-08-24 21:08:23.311  INFO 5048 --- [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-08-24 21:08:23.315  INFO 5048 --- [           main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-08-24 21:08:23.624  INFO 5048 --- [           main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-08-24 21:08:23.625  INFO 5048 --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 4443 ms
+2020-08-24 21:08:23.867  INFO 5048 --- [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2020-08-24 21:08:24.358  INFO 5048 --- [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2020-08-24 21:08:24.382  INFO 5048 --- [           main] o.s.b.a.h2.H2ConsoleAutoConfiguration    : H2 console available at '/h2'. Database available at 'jdbc:h2:mem:testdb'
+2020-08-24 21:08:25.008  INFO 5048 --- [           main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-24 21:08:25.341  INFO 5048 --- [         task-1] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2020-08-24 21:08:25.585  INFO 5048 --- [         task-1] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.4.20.Final
+2020-08-24 21:08:25.618  WARN 5048 --- [           main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-08-24 21:08:26.636  INFO 5048 --- [         task-1] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-08-24 21:08:27.206  INFO 5048 --- [         task-1] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2020-08-24 21:08:29.870  INFO 5048 --- [         task-1] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-08-24 21:08:29.903  INFO 5048 --- [         task-1] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2020-08-24 21:08:30.320  INFO 5048 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 57387 (http) with context path ''
+2020-08-24 21:08:30.322  INFO 5048 --- [           main] DeferredRepositoryInitializationListener : Triggering deferred initialization of Spring Data repositories…
+2020-08-24 21:08:30.922  INFO 5048 --- [           main] DeferredRepositoryInitializationListener : Spring Data repositories initialized!
+2020-08-24 21:08:31.000  INFO 5048 --- [           main] c.w.WavefrontRestApplicationTests        : Started WavefrontRestApplicationTests in 12.51 seconds (JVM running for 14.692)
+2020-08-24 21:08:31.815  INFO 5048 --- [o-auto-1-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-08-24 21:08:31.816  INFO 5048 --- [o-auto-1-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-08-24 21:08:31.865  INFO 5048 --- [o-auto-1-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 49 ms
+[ERROR] Tests run: 6, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 15.418 s <<< FAILURE! - in com.wavefront.WavefrontRestApplicationTests
+[ERROR] whenShapesDoNotOverlapThenItShouldReturn200  Time elapsed: 0.05 s  <<< ERROR!
+java.lang.IllegalArgumentException: [Assertion failed] - this expression must be true
+	at com.wavefront.WavefrontRestApplicationTests.whenShapesDoNotOverlapThenItShouldReturn200(WavefrontRestApplicationTests.java:40)
+
+2020-08-24 21:08:33.757  INFO 5048 --- [extShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2020-08-24 21:08:33.758  INFO 5048 --- [extShutdownHook] .SchemaDropperImpl$DelayedDropActionImpl : HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down'
+2020-08-24 21:08:33.784  INFO 5048 --- [extShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-08-24 21:08:33.785  INFO 5048 --- [extShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2020-08-24 21:08:33.795  INFO 5048 --- [extShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+[INFO] 
+[INFO] Results:
+[INFO] 
+[ERROR] Errors: 
+[ERROR]   WavefrontRestApplicationTests.whenShapesDoNotOverlapThenItShouldReturn200:40 » IllegalArgument
+[INFO] 
+[ERROR] Tests run: 6, Failures: 0, Errors: 1, Skipped: 0
+[INFO] 
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD FAILURE
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  06:17 min
+[INFO] Finished at: 2020-08-24T21:08:34+02:00
+[INFO] ------------------------------------------------------------------------
+[ERROR] Failed to execute goal org.apache.maven.plugins:maven-surefire-plugin:2.22.2:test (default-test) on project wavefront-rest: There are test failures.
+[ERROR] 
+[ERROR] Please refer to C:\Users\Ahmed Vahed\Documents\My Projects\wavefront-rest\target\surefire-reports for the individual test results.
+[ERROR] Please refer to dump files (if any exist) [date].dump, [date]-jvmRun[N].dump and [date].dumpstream.
+[ERROR] -> [Help 1]
+[ERROR] 
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR] 
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
